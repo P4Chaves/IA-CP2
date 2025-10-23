@@ -1,4 +1,5 @@
 # Prova – Regressão Logística (Voice Gender)
+# Alunos: Pedro Chaves (RM553988), Iago Diniz (RM553776), Enzzo Monteiro (RM552616) e Lucas Garcia (RM554070)
 
 **Objetivo:** classificar **voz masculina/feminina** com regressão logística, passando por **EDA**, **padronização**, **validação cruzada com GridSearchCV (L1/L2)**, **modelo final**, e — na Parte B — treinar uma variação **usando RMSE como perda** e **comparar** com o modelo padrão (log-loss).
 
