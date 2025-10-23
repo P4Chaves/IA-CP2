@@ -13,6 +13,7 @@
 ## Parte A — Análise Exploratória, Validação Cruzada, Lasso e Ridge
 
 ### 1) Preparação e Análise Exploratória
+- **NOTA IMPORTANTE:** já que o csv foi lido localmente você vai precisar trocar o path no próprio código (ele está com o meu)
 - **Carregamento:** leitura do `voice.csv` local; criação de **X** (features) e **y** (alvo).  
 - **Balanceamento do alvo:** contagens e percentuais por classe → dataset **bem balanceado (~50/50)**.  
 - **Distribuições:** **histogramas + KDE** por feature (assimetria, dispersão, possíveis outliers).  
